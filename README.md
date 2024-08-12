@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Use Blessing Penney
+- 👋 Hi, I’m Osarodion O Osagie
 - 👀 I’m interested in Data Analytics and Virtual Assistance
 - 🌱 I’m currently learning SQL with DataCamp
 - 💞️ I’m looking to collaborate on Data Analysis
